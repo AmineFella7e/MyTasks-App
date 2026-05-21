@@ -1,0 +1,13 @@
+<resources>
+    <color name="md_theme_light_primary">#6750A4</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_secondary">#625B71</color>
+    <color name="md_theme_light_background">#FFFBFE</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="text_secondary">#6B6B6B</color>
+    <color name="status_done">#1B8A3B</color>
+    <color name="status_pending">#C62828</color>
+    <color name="item_border">#D9D9D9</color>
+    <color name="fragment_bg">#F2ECFF</color>
+    <color name="launcher_bg">#6750A4</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="task_categories">
+        <item>Études</item>
+        <item>Travail</item>
+        <item>Personnel</item>
+        <item>Maison</item>
+        <item>Autre</item>
+    </string-array>
+</resources>
