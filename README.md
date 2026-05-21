@@ -16,10 +16,6 @@
 - **Architecture :** Utilisation d'activités, de fragments, de listes dynamiques et de menus contextuels.
 - **Environnement :** Android Studio
 
-- <a href="images/image_8b2d52.png" target="_blank">
-  <img src="images/image_8b2d52.png" alt="Aperçu" width="300">
-</a>
-
 ## 💡 À propos
 Ce projet a été réalisé dans le cadre d'un développement complet d'application Android, mettant en pratique les concepts de persistance de données (Realm), la manipulation de fragments, ainsi que la gestion d'interface utilisateur dynamique.
 
